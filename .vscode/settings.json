@@ -1,6 +1,0 @@
-{
-	"code-runner.executorMap":{
-	    "c" :"cd $dir && gcc $fileName -o ${fileDirname}\\Build\\$fileNameWithoutExt && ${fileDirname}\\Build\\$fileNameWithoutExt",
-	    "cpp" :"cd $dir && g++ $fileName -o ${fileDirname}\\Build\\$fileNameWithoutExt && ${fileDirname}\\Build\\$fileNameWithoutExt"
-	}
-    }

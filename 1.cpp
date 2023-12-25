@@ -24,8 +24,8 @@ void mergesort(ll a[], int l, int r)
 int main()
 {
 	scanf("%d", &n);
-	for(int i = 0; i < n; i++) scanf("%d", &a[i]);
+	for(int i = 0; i < n; i++) scanf("%lld", &a[i]);
 	mergesort(a, 0, n-1);
-	for(int i = 0; i < n; i++) printf("%d", a[i]);
+	for(int i = 0; i < n; i++) printf("%lld ", a[i]);
 	return 0;
  } 
