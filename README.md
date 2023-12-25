@@ -1,3 +1,4 @@
-# Vscode
-1.vray2
-2.vscode 环境配置
+# TODO
+- 研究斐波那契数列
+- 研究LCS最长公共子序列
+- XA局限笔记
